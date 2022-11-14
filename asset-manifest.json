@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/foreverBots/static/css/main.36f087be.css",
-    "main.js": "/foreverBots/static/js/main.d5f5611b.js",
+    "main.css": "/foreverBots/static/css/main.cf3ce86e.css",
+    "main.js": "/foreverBots/static/js/main.29cff16f.js",
     "index.html": "/foreverBots/index.html",
-    "main.36f087be.css.map": "/foreverBots/static/css/main.36f087be.css.map",
-    "main.d5f5611b.js.map": "/foreverBots/static/js/main.d5f5611b.js.map"
+    "main.cf3ce86e.css.map": "/foreverBots/static/css/main.cf3ce86e.css.map",
+    "main.29cff16f.js.map": "/foreverBots/static/js/main.29cff16f.js.map"
   },
   "entrypoints": [
-    "static/css/main.36f087be.css",
-    "static/js/main.d5f5611b.js"
+    "static/css/main.cf3ce86e.css",
+    "static/js/main.29cff16f.js"
   ]
 }
