@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import MainPartOne from './Components/MainPartOne';
 import MainPartTwo from './Components/MainPartTwo';
 import MainPartThree from './Components/MainPartThree';
+import Ongoing from './Components/Ongoing';
 function App() {
   return (
   <>
@@ -12,6 +13,7 @@ function App() {
  <MainPartOne/>
  <MainPartTwo/>
  <MainPartThree/>
+ <Ongoing/>
  </main>
   </>
   )

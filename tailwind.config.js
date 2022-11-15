@@ -7,6 +7,15 @@ module.exports = {
     extend: {
       lineHeight: {
         '10': '0.9',
+      },
+      animation: {
+        'spin-slow': 'spin 5s linear infinite',
+      },
+      keyframes: {
+        spin: {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-25%)' },
+        }
       }
     },
     fontSize: {
