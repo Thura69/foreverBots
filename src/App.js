@@ -7,6 +7,8 @@ import MainPartThree from './Components/MainPartThree';
 import Ongoing from './Components/Ongoing';
 import MainPartFour from './Components/MainPartFour';
 import PartFourOngoing from './Components/PartFourOngoing';
+import MainPartFive from './Components/MainPartFive';
+
 function App() {
   return (
   <>
@@ -18,6 +20,7 @@ function App() {
  <Ongoing/>
  <MainPartFour/>
  <PartFourOngoing/>
+ <MainPartFive/>
  </main>
   </>
   )
