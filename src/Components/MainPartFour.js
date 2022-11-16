@@ -36,7 +36,7 @@ function MainPartFour() {
    <h1 className='lg:text-[100px] text-[60px] mb-6'>RANK</h1>
    <p className='text-[24px]   max-w-[500px] leading-[1.1]'>Collect different combination of bots and earn achievements. Hover the badges and see what bots to collect. Head in to the Terminal to show all your bots and achievements.
 </p>
-<button className='mt-10 bg-[#cef934]  text-[#222] px-14 py-2 rounded-full text-[30px]  lg:w-[550px] lg:py-2 lg:px-2  hover:bg-[#222] hover:text-[#cef934] border-2 border-[#cef934]  text-center lg:mx-0 '>FULL_HIGHSCORE</button>
+<button className='mt-10 bg-[#cef934]  text-[#222]  py-2 rounded-full text-[30px]  lg:w-[550px] lg:py-2 lg:px-2  hover:bg-[#222] hover:text-[#cef934] border-2 border-[#cef934]  lg:mx-0 '>FULL_HIGHSCORE</button>
    </div>
    <div className='two-part-mini lg:w-[50%] w-full py-6 border-t-4 border-b-4 border-[#cef934] mt-10'>
   <table className='gap-[10%] w-full  text-center'>
